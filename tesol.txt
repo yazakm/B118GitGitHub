@@ -15,3 +15,5 @@ yaz branch .3.deneme
 >>>>>>> Stashed changes
 
 4.deneme
+
+5.deneme
