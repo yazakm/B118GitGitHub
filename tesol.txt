@@ -5,3 +5,5 @@ ikinci deneme
 üçüncü deneme
 
 yaz branch ilk deneme
+
+yaz branch ikinci deneme
