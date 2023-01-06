@@ -6,4 +6,12 @@ ikinci deneme
 
 yaz branch ilk deneme
 
+<<<<<<< Updated upstream
 yaz branch ikinci deneme
+=======
+yaz branch ikinci deneme
+
+yaz branch .3.deneme
+>>>>>>> Stashed changes
+
+4.deneme
